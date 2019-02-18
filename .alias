@@ -5,6 +5,7 @@ alias p="cd ~/project"
 alias g="git"
 alias ..="cd .."
 alias ...="cd ..."
+alias v="vim"
 
 # Detect which `ls` flavor is in use
 if ls --color > /dev/null 2>&1; then # GNU `ls`
